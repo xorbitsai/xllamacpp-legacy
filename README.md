@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **xllamacpp has moved to [xorbitsai/xllamacpp](https://github.com/xorbitsai/xllamacpp).**
+> Please use the new repository for ongoing development, current documentation, issues, and pull requests.
+> This legacy repository is retained for historical issues, pull requests, releases, and downloads.
+
 <div align="center">
 <img src="./assets/logo.png" width="400px" alt="xllamacpp Python bindings for llama.cpp" />
 
